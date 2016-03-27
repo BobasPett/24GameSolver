@@ -15,5 +15,10 @@
         <option name="FOREGROUND" value="9806f" />
       </value>
     </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="4441fd" />
+      </value>
+    </option>
   </attributes>
 </scheme>
