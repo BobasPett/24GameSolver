@@ -1,0 +1,14 @@
+<scheme name="Darcula 1111" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="60" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Lucida Sans Typewriter" />
+  <attributes>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="2e37ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
