@@ -3,6 +3,31 @@
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="824892" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="824892" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="824892" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="824892" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="824892" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="48dcd7" />
