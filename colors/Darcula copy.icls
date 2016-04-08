@@ -21,6 +21,11 @@
         <option name="FOREGROUND" value="ff4544" />
       </value>
     </option>
+    <option name="JAVA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="20b9e7" />
+      </value>
+    </option>
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="4857fe" />
