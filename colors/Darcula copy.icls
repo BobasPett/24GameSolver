@@ -5,10 +5,20 @@
   <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="f42438" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e98c36" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ff4544" />
       </value>
     </option>
     <option name="JAVA_STRING">
