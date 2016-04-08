@@ -7,8 +7,13 @@
   <attributes>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e17716" />
+        <option name="FOREGROUND" value="e98c36" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="4857fe" />
       </value>
     </option>
   </attributes>
