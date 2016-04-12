@@ -18,17 +18,18 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ff4544" />
+        <option name="FOREGROUND" value="ff0014" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="20b9e7" />
+        <option name="FOREGROUND" value="ffff02" />
       </value>
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="4857fe" />
+        <option name="FOREGROUND" value="de2ff" />
       </value>
     </option>
   </attributes>
