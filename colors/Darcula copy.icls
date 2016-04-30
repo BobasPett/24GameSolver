@@ -12,6 +12,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e36aff" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="ff263a" />
@@ -42,6 +47,18 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ca46f1" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e55dfb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d629ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
