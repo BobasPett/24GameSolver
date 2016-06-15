@@ -1,8 +1,8 @@
 <scheme name="something that actually saves dark copy" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="28" />
+  <option name="EDITOR_FONT_SIZE" value="42" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="60" />
+  <option name="CONSOLE_FONT_SIZE" value="33" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="0" />
@@ -12,6 +12,11 @@
     <option name="SELECTION_FOREGROUND" value="ecf8ff" />
   </colors>
   <attributes>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="23ff08" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="585efb" />
