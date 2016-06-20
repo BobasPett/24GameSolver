@@ -1,12 +1,12 @@
 <scheme name="Material Theme - Darker copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.6" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="51" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="60" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="51" />
+    <option name="EDITOR_FONT_SIZE" value="60" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
