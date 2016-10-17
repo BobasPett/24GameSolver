@@ -1,0 +1,32 @@
+<scheme name="Default copy908908 copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-10-17T16:14:47</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2016.2.4.0.0</property>
+    <property name="modified">2016-10-17T16:15:05</property>
+    <property name="originalScheme">Default copy908908</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="30" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="23ff08" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
